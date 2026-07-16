@@ -10,7 +10,6 @@ for you.
 
 ```
 Task_01_Descriptive_Stats/
-├── data/                     <- put the CSV here (not tracked in git)
 ├── pure_python_stats.py       <- stdlib-only analysis
 ├── pandas_stats.py            <- Pandas analysis
 ├── requirements.txt
